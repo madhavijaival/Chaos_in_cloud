@@ -4,6 +4,7 @@
 
 Installed `serverless`, `artillery` and `serverless-artillery`
 
+> Serverless artillery is the result of combining the serverless framework with artillery.io. When serverless and artillery are combined, we get serverless-artillery, which allows fast, low-cost, and easy performance testing at scale. Serverless-artillery enables us to quickly and easily test the performance and functionality of our services without the use of servers or testing infrastructure.
 
 ```bash
 $ npm install --global serverless
