@@ -25,7 +25,7 @@ If you want the output to be dump to a file,  file as follow:
 
 ## Installation of the `Hey` tool on Ubuntu 
 HTTP load generator, ApacheBench (ab) replacement.
-hey is a tiny program that sends some load to a web application.
+hey is a tiny program that sends some load to a web application.<br/>
 Commands to install Hey:
 
 ```
