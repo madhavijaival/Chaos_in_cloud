@@ -39,7 +39,7 @@ Command to test :
 ```
 $ hey -n 2000 -c 50 "<https://xxxxxxx.execute-api.us-east-1.amazonaws.com>"
 ```
-**The result of 200- reuest test  :**
+**The result of 2000 reuest test  :**
 
 
 
