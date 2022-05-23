@@ -21,7 +21,7 @@ and then run the following command:
 > This will trigger a set requests in the `hello-world` example.
 
 If we want the output to be dump to a file,  file as follow:
-`slsart invoke -p script.yml > results.json`
+`slsart invoke -p script.yml > result.json`
 
 
 ## Installation of the `Hey` tool on Ubuntu 
