@@ -24,6 +24,39 @@ If we want the output to be dump to a file,  file as follow:
 `slsart invoke -p script.yml > result.json`
 
 
+## Installation of `npm/nodejs`
+>To install the package I run following command after lots of trial.
+```
+curl -sL https://deb.nodesource.com/setup_14.x 565 | sudo -E bash -
+sudo apt-get install -y nodejs
+
+```
+>To check the version of package you installed
+
+```
+node -v
+npm -v
+```
+
+## Using `Artillery` Itself for testing
+>Installation of artillery using below command.
+```
+npm install -g artillery@latest
+```
+>To test the artilley is installed successfully or not we can use npm to install Artillery globally, run:
+```
+artillery dino
+```
+>For running test cases I used:
+```
+artillery run script.yml
+```
+
+>Create a JSON report
+We can tell Artillery to write a JSON report of a test run into a file. 
+```
+artillery run --output report.json  script.yml
+```
 ## Installation of the `Hey` tool on Ubuntu 
 HTTP load generator, ApacheBench (ab) replacement.
 hey is a tiny program that sends some load to a web application.<br/>
