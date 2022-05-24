@@ -57,6 +57,8 @@ We can tell Artillery to write a JSON report of a test run into a file.
 ```
 artillery run --output report.json  script.yml
 ```
+<img src="/Artillery_R1.JPG" width="650">
+
 ## Installation of the `Hey` tool on Ubuntu 
 HTTP load generator, ApacheBench (ab) replacement.
 hey is a tiny program that sends some load to a web application.<br/>
