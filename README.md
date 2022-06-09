@@ -63,6 +63,9 @@ artillery run --output report.json  script.yml
 HTTP load generator, ApacheBench (ab) replacement.
 hey is a tiny program that sends some load to a web application.<br/>
 Commands to install Hey:
+```
+hey -n 100000 -c 2000 -o csv http://x.x.x.x/index.nginx-debian.html > lbperformance.csv
+```
 
 ```
 $sudo apt update
