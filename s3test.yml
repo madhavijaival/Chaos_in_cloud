@@ -8,8 +8,8 @@ config:
   target: "https://x4krvr3w96.execute-api.us-west-2.amazonaws.com/Test"
   phases:
     -
-      duration: 10
-      arrivalRate: 5
+      duration: 120
+      arrivalRate: 90
 scenarios:
   -
     flow:
