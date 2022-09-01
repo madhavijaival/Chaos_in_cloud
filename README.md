@@ -86,8 +86,10 @@ hey -n 100000 -c 2000 -o csv http://x.x.x.x/index.nginx-debian.html > lbperforma
 <img src="/2000_Request1.JPG" width="650">
 
 
-
-
-
+Command to POST method:
+```
+ hey -n 10 -c 2 -m POST https://az8wxhgsfd.execute-api.us-west-2.amazonaws.com/read/select
+ 
+```
 Thanks :grinning:
 
