@@ -1,0 +1,453 @@
+[
+{
+  "id": 1,
+  "Player": "V Kohli (INDIA)",
+  "Span": "2010-2019",
+  "Runs": 2633,
+  "HS": "94*",
+  "4s": 247,
+  "6s": 71
+ },
+ {
+  "id": 2,
+  "Player": "RG Sharma (INDIA)",
+  "Span": "2007-2019",
+  "Runs": 2633,
+  "HS": 118,
+  "4s": 234,
+  "6s": 120
+ },
+ {
+  "id": 3,
+  "Player": "MJ Guptill (NZ)",
+  "Span": "2009-2019",
+  "Runs": 2436,
+  "HS": 105,
+  "4s": 215,
+  "6s": 113
+ },
+ {
+  "id": 4,
+  "Player": "Shoaib Malik (ICC\/PAK)",
+  "Span": "2006-2019",
+  "Runs": 2263,
+  "HS": 75,
+  "4s": 186,
+  "6s": 61
+ },
+ {
+  "id": 5,
+  "Player": "BB McCullum (NZ)",
+  "Span": "2005-2015",
+  "Runs": 2140,
+  "HS": 123,
+  "4s": 199,
+  "6s": 91
+ },
+ {
+  "id": 6,
+  "Player": "DA Warner (AUS)",
+  "Span": "2009-2019",
+  "Runs": 2079,
+  "HS": "100*",
+  "4s": 203,
+  "6s": 86
+ },
+ {
+  "id": 7,
+  "Player": "EJG Morgan (ENG)",
+  "Span": "2009-2019",
+  "Runs": 2002,
+  "HS": 91,
+  "4s": 151,
+  "6s": 96
+ },
+ {
+  "id": 8,
+  "Player": "Mohammad Shahzad (AFG)",
+  "Span": "2010-2018",
+  "Runs": 1936,
+  "HS": "118*",
+  "4s": 218,
+  "6s": 72
+ },
+ {
+  "id": 9,
+  "Player": "JP Duminy (SA)",
+  "Span": "2007-2019",
+  "Runs": 1934,
+  "HS": "96*",
+  "4s": 138,
+  "6s": 71
+ },
+ {
+  "id": 10,
+  "Player": "PR Stirling (IRE)",
+  "Span": "2009-2019",
+  "Runs": 1929,
+  "HS": 91,
+  "4s": 233,
+  "6s": 59
+ },
+ {
+  "id": 11,
+  "Player": "Mohammad Hafeez (PAK)",
+  "Span": "2006-2018",
+  "Runs": 1908,
+  "HS": 86,
+  "4s": 196,
+  "6s": 51
+ },
+ {
+  "id": 12,
+  "Player": "TM Dilshan (SL)",
+  "Span": "2006-2016",
+  "Runs": 1889,
+  "HS": "104*",
+  "4s": 223,
+  "6s": 33
+ },
+ {
+  "id": 13,
+  "Player": "AJ Finch (AUS)",
+  "Span": "2011-2019",
+  "Runs": 1878,
+  "HS": 172,
+  "4s": 182,
+  "6s": 90
+ },
+ {
+  "id": 14,
+  "Player": "LRPL Taylor (NZ)",
+  "Span": "2006-2019",
+  "Runs": 1743,
+  "HS": 63,
+  "4s": 110,
+  "6s": 65
+ },
+ {
+  "id": 15,
+  "Player": "Umar Akmal (PAK)",
+  "Span": "2009-2019",
+  "Runs": 1690,
+  "HS": 94,
+  "4s": 122,
+  "6s": 55
+ },
+ {
+  "id": 16,
+  "Player": "AB de Villiers (SA)",
+  "Span": "2006-2017",
+  "Runs": 1672,
+  "HS": "79*",
+  "4s": 140,
+  "6s": 60
+ },
+ {
+  "id": 17,
+  "Player": "H Masakadza (ZIM)",
+  "Span": "2006-2019",
+  "Runs": 1662,
+  "HS": "93*",
+  "4s": 151,
+  "6s": 65
+ },
+ {
+  "id": 18,
+  "Player": "AD Hales (ENG)",
+  "Span": "2011-2019",
+  "Runs": 1644,
+  "HS": "116*",
+  "4s": 175,
+  "6s": 55
+ },
+ {
+  "id": 19,
+  "Player": "CH Gayle (WI)",
+  "Span": "2006-2019",
+  "Runs": 1627,
+  "HS": 117,
+  "4s": 138,
+  "6s": 105
+ },
+ {
+  "id": 20,
+  "Player": "MS Dhoni (INDIA)",
+  "Span": "2006-2019",
+  "Runs": 1617,
+  "HS": 56,
+  "4s": 116,
+  "6s": 52
+ },
+ {
+  "id": 21,
+  "Player": "Tamim Iqbal (BDESH\/ICC\/World)",
+  "Span": "2007-2018",
+  "Runs": 1613,
+  "HS": "103*",
+  "4s": 174,
+  "6s": 41
+ },
+ {
+  "id": 22,
+  "Player": "MN Samuels (WI)",
+  "Span": "2007-2018",
+  "Runs": 1611,
+  "HS": "89*",
+  "4s": 144,
+  "6s": 69
+ },
+ {
+  "id": 23,
+  "Player": "SK Raina (INDIA)",
+  "Span": "2006-2018",
+  "Runs": 1605,
+  "HS": 101,
+  "4s": 145,
+  "6s": 58
+ },
+ {
+  "id": 24,
+  "Player": "GJ Maxwell (AUS)",
+  "Span": "2012-2019",
+  "Runs": 1576,
+  "HS": "145*",
+  "4s": 133,
+  "6s": 81
+ },
+ {
+  "id": 25,
+  "Player": "Shakib Al Hasan (BDESH)",
+  "Span": "2006-2019",
+  "Runs": 1567,
+  "HS": 84,
+  "4s": 163,
+  "6s": 33
+ },
+ {
+  "id": 26,
+  "Player": "C Munro (NZ)",
+  "Span": "2012-2019",
+  "Runs": 1546,
+  "HS": "109*",
+  "4s": 114,
+  "6s": 100
+ },
+ {
+  "id": 27,
+  "Player": "KS Williamson (NZ)",
+  "Span": "2011-2019",
+  "Runs": 1505,
+  "HS": "73*",
+  "4s": 158,
+  "6s": 26
+ },
+ {
+  "id": 28,
+  "Player": "S Dhawan (INDIA)",
+  "Span": "2011-2019",
+  "Runs": 1504,
+  "HS": 92,
+  "4s": 166,
+  "6s": 46
+ },
+ {
+  "id": 29,
+  "Player": "KJ O'Brien (IRE)",
+  "Span": "2008-2019",
+  "Runs": 1504,
+  "HS": 124,
+  "4s": 117,
+  "6s": 69
+ },
+ {
+  "id": 30,
+  "Player": "DPMD Jayawardene (SL)",
+  "Span": "2006-2014",
+  "Runs": 1493,
+  "HS": 100,
+  "4s": 173,
+  "6s": 33
+ },
+ {
+  "id": 31,
+  "Player": "Ahmed Shehzad (PAK)",
+  "Span": "2009-2019",
+  "Runs": 1471,
+  "HS": "111*",
+  "4s": 157,
+  "6s": 33
+ },
+ {
+  "id": 32,
+  "Player": "SR Watson (AUS)",
+  "Span": "2006-2016",
+  "Runs": 1462,
+  "HS": "124*",
+  "4s": 115,
+  "6s": 83
+ },
+ {
+  "id": 33,
+  "Player": "Mahmudullah (BDESH)",
+  "Span": "2007-2019",
+  "Runs": 1430,
+  "HS": "64*",
+  "4s": 113,
+  "6s": 48
+ },
+ {
+  "id": 34,
+  "Player": "Shahid Afridi (ICC\/PAK)",
+  "Span": "2006-2018",
+  "Runs": 1416,
+  "HS": "54*",
+  "4s": 103,
+  "6s": 73
+ },
+ {
+  "id": 35,
+  "Player": "Babar Azam (PAK)",
+  "Span": "2016-2019",
+  "Runs": 1405,
+  "HS": "97*",
+  "4s": 139,
+  "6s": 20
+ },
+ {
+  "id": 36,
+  "Player": "KJ Coetzer (SCOT)",
+  "Span": "2008-2019",
+  "Runs": 1386,
+  "HS": 89,
+  "4s": 144,
+  "6s": 45
+ },
+ {
+  "id": 37,
+  "Player": "KC Sangakkara (SL)",
+  "Span": "2006-2014",
+  "Runs": 1382,
+  "HS": 78,
+  "4s": 139,
+  "6s": 20
+ },
+ {
+  "id": 38,
+  "Player": "F du Plessis (SA\/World)",
+  "Span": "2012-2019",
+  "Runs": 1363,
+  "HS": 119,
+  "4s": 126,
+  "6s": 45
+ },
+ {
+  "id": 39,
+  "Player": "Mohammad Nabi (AFG)",
+  "Span": "2010-2019",
+  "Runs": 1316,
+  "HS": 89,
+  "4s": 83,
+  "6s": 78
+ },
+ {
+  "id": 40,
+  "Player": "DA Miller (SA\/World)",
+  "Span": "2010-2019",
+  "Runs": 1309,
+  "HS": "101*",
+  "4s": 91,
+  "6s": 57
+ },
+ {
+  "id": 41,
+  "Player": "HM Amla (SA\/World)",
+  "Span": "2009-2018",
+  "Runs": 1277,
+  "HS": "97*",
+  "4s": 146,
+  "6s": 26
+ },
+ {
+  "id": 42,
+  "Player": "Mushfiqur Rahim (BDESH)",
+  "Span": "2006-2019",
+  "Runs": 1265,
+  "HS": "72*",
+  "4s": 110,
+  "6s": 31
+ },
+ {
+  "id": 43,
+  "Player": "JC Buttler (ENG)",
+  "Span": "2011-2018",
+  "Runs": 1260,
+  "HS": "73*",
+  "4s": 102,
+  "6s": 53
+ },
+ {
+  "id": 44,
+  "Player": "RD Berrington (SCOT)",
+  "Span": "2008-2019",
+  "Runs": 1247,
+  "HS": 100,
+  "4s": 117,
+  "6s": 36
+ },
+ {
+  "id": 45,
+  "Player": "GC Wilson (IRE)",
+  "Span": "2008-2019",
+  "Runs": 1239,
+  "HS": "65*",
+  "4s": 105,
+  "6s": 20
+ },
+ {
+  "id": 46,
+  "Player": "Yuvraj Singh (INDIA)",
+  "Span": "2007-2017",
+  "Runs": 1177,
+  "HS": "77*",
+  "4s": 77,
+  "6s": 74
+ },
+ {
+  "id": 47,
+  "Player": "KP Pietersen (ENG)",
+  "Span": "2005-2013",
+  "Runs": 1176,
+  "HS": 79,
+  "4s": 119,
+  "6s": 32
+ },
+ {
+  "id": 48,
+  "Player": "MDKJ Perera (SL)",
+  "Span": "2013-2019",
+  "Runs": 1171,
+  "HS": 84,
+  "4s": 114,
+  "6s": 41
+ },
+ {
+  "id": 49,
+  "Player": "NLTC Perera (ICC\/SL\/World)",
+  "Span": "2010-2019",
+  "Runs": 1169,
+  "HS": 61,
+  "4s": 87,
+  "6s": 62
+ },
+ {
+  "id": 50,
+  "Player": "Asghar Afghan (AFG)",
+  "Span": "2010-2019",
+  "Runs": 1167,
+  "HS": 62,
+  "4s": 69,
+  "6s": 58
+ }
+ 
+ ]
