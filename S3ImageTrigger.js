@@ -4,15 +4,19 @@ const AWS = require('aws-sdk');
 const os = require('os');
 os.type("ulimit -n 100000");
 const s3 = new AWS.S3();
-
 //Creating probability of delay
-const probability =  0.5, enabeled = true;
-const minDelay=  100, maxDelay = 2000;
-let delay, randomNum = Math.random();
+const config= {
+     'probability' :2.5,
+     'enabeled' : true,
+     'minDelay' : 100,
+     'maxDelay' : 1000
+};
 
-if(enabeled ===  true && randomNum < probability){
-let delayRange = maxDelay - minDelay;
-    delay = Math.floor(minDelay + randomNum * delayRange);
+let delay;
+let randomNum = Math.random();
+if(config.enabeled ===  true && randomNum < config.probability){
+let delayRange = config.maxDelay - config.minDelay;
+    delay = Math.floor(config.minDelay + randomNum * delayRange);
 }
 
 exports.handler = (event, context, callback) => {
@@ -48,6 +52,15 @@ exports.handler = (event, context, callback) => {
     
 };
 
+// //Creating probability of delay
+// const probability =  0.5, enabeled = true;
+// const minDelay=  100, maxDelay = 2000;
+// let delay, randomNum = Math.random();
+
+// if(enabeled ===  true && randomNum < probability){
+// let delayRange = maxDelay - minDelay;
+//     delay = Math.floor(minDelay + randomNum * delayRange);
+// }
 
 
 
