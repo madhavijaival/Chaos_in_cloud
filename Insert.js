@@ -5,19 +5,22 @@ os.type("ulimit -n 100000");
 const dynamoDb = new AWS.DynamoDB.DocumentClient();
 
 //Creating probability of delay
-const probability =  0.5, enabeled = true;
-const minDelay=  100, maxDelay = 4000;
+const config= {
+     'probability' :3.5,
+     'enabeled' : true,
+     'minDelay' : 100,
+     'maxDelay' : 5000
+};
 let delay;
-const randomNum = Math.random();
-
-//This will generate delay in ms
-if(enabeled ===  true && randomNum < probability){
-let delayRange = maxDelay - minDelay;
-    delay = Math.floor(minDelay + randomNum * delayRange);
+let randomNum = Math.random();
+if(config.enabeled ===  true && randomNum < config.probability){
+let delayRange = config.maxDelay - config.minDelay;
+    delay = Math.floor(config.minDelay + randomNum * delayRange);
 }
 
 function sleep(delay) {
-return new Promise(resolve => setTimeout(resolve, delay),console.log(`injecting [${delay}ms] latency...`));
+return new Promise(resolve => setTimeout(resolve, delay),
+console.log(`injecting [${delay}ms] latency...`));
 }
 
 //function for random number generation which takes 2 values...
@@ -51,4 +54,5 @@ exports.handler = async (event, context) => {
       }
 
 };
+
 
